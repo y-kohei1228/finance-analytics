@@ -1,1 +1,1 @@
-web: gunicorn techpit.wsgi
+web: gunicorn finance_analytics.wsgi
